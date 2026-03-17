@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Projects/summer training/weather"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Punit"
+	}
+}
